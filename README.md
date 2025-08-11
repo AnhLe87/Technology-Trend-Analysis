@@ -26,14 +26,14 @@ The analysis aims to answer the following questions:
    - How does salary vary across countries, roles, and technologies?
 
 ---
-## 📂 Dataset
+## Dataset
 - **Source:** [Stack Overflow Developer Survey](https://insights.stackoverflow.com/survey)
 - **Format:** CSV files (yearly datasets)
-- **Coverage:** Multiple years of survey results from developers worldwide
-- **Size:** Varies by year (typically 50,000–90,000 responses)
+- **Coverage:** Survey results from developers worldwide in 2024
+- **Size:** 65437 responses
 - ---
 
-## 🛠 Tools & Libraries
+## Tools & Libraries
 - **Python** (Data Cleaning, Analysis, Visualization)
 - **Pandas** – Data manipulation
 - **NumPy** – Numerical analysis
@@ -43,7 +43,7 @@ The analysis aims to answer the following questions:
 
 ---
 
-## 📊 Methodology
+## Methodology
 1. **Data Collection**
    - Download CSV datasets from Stack Overflow’s official survey page
    - Load into Pandas DataFrames
@@ -55,7 +55,7 @@ The analysis aims to answer the following questions:
 
 3. **Exploratory Data Analysis (EDA)**
    - Frequency counts & percentage distributions
-   - Trend analysis across multiple years
+   - Trend analysis
    - Regional and role-based comparisons
 
 4. **Visualization**
@@ -69,7 +69,7 @@ The analysis aims to answer the following questions:
 
 ---
 
-## 📈 Example Insights (Hypothetical)
+## Example Insights (Hypothetical)
 - Python has consistently grown in popularity, surpassing Java in 2022.
 - React remains the most used front-end framework, but Svelte is growing quickly.
 - AWS dominates cloud usage, but Azure adoption is rising in enterprise environments.
