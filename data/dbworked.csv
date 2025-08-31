@@ -1,11 +1,11 @@
-,LanguageHaveWorkedWith,count
-0,JavaScript,7784
-1,SQL,7052
-2,HTML/CSS,6970
-3,Python,6658
-4,Bash/Shell (all shells),5209
-5,TypeScript,4887
-6,C#,3189
-7,Java,2773
-8,C++,1943
-9,PowerShell,1832
+,DatabaseHaveWorkedWith,count
+0,PostgreSQL,6383
+1,SQLite,3826
+2,MySQL,3653
+3,Microsoft SQL Server,3464
+4,Redis,2419
+5,MongoDB,1825
+6,MariaDB,1777
+7,Elasticsearch,1155
+8,Oracle,933
+9,Dynamodb,789
