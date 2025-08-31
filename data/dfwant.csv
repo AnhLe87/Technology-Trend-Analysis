@@ -1,0 +1,11 @@
+,DatabaseWantToWorkWith,count
+0,PostgreSQL,6919
+1,SQLite,3762
+2,Redis,2739
+3,MySQL,2486
+4,Microsoft SQL Server,2438
+5,MongoDB,1931
+6,MariaDB,1337
+7,Elasticsearch,1245
+8,Dynamodb,639
+9,DuckDB,585
