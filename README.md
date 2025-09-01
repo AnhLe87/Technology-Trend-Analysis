@@ -48,7 +48,7 @@ The analysis aims to answer the following questions:
 
 ---
 
-## Example Insights (Hypothetical)
+## Insights
 - Python has consistently grown in popularity, surpassing JavaScript in next year.
 - PostSQL remains the most used database, but MicrosoftSQL Server is growing quickly.
 
