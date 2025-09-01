@@ -1,36 +1,21 @@
 # Technology-Trend-Analysis
 *Using Stack Overflow Developer Survey Data*
 ## Project overview
-This project analyzes technology trends in the software development industry using data from the [Stack Overflow Developer Survey](https://insights.stackoverflow.com/survey). The goal is to uncover patterns and answer key questions about programming languages, frameworks, databases, tools, and developer demographics over time.
+This project analyzes technology trends in the software development industry using data from the [Stack Overflow Developer Survey](https://insights.stackoverflow.com/survey). The goal is to uncover patterns and answer key questions about programming languages, frameworks, databases, platform over time.
 ---
 ## Research Questions
 The analysis aims to answer the following questions:
-1. **Programming Languages**
-   - Which programming languages are the most popular among developers?
-   - Which languages have been growing or declining in popularity over the years?
+1. Which programming languages are most in demand?
 
-2. **Frameworks & Libraries**
-   - Which frameworks are most commonly used in development projects?
-   - Are there any emerging frameworks gaining adoption rapidly?
-
-3. **Databases & Cloud Platforms**
-   - Which database technologies are preferred by developers?
-   - What is the trend in cloud platform usage (AWS, Azure, GCP, etc.)?
-
-4. **Developer Demographics**
-   - What are the most common job roles and experience levels?
-   - How do developer preferences vary by region?
-
-5. **Career & Job Satisfaction**
-   - What factors influence developer job satisfaction?
-   - How does salary vary across countries, roles, and technologies?
+2. Which database technologies are currently most sought after?
+   
 
 ---
 ## Dataset
 - **Source:** [Stack Overflow Developer Survey](https://insights.stackoverflow.com/survey)
 - **Format:** CSV files (yearly datasets)
-- **Coverage:** Survey results from developers worldwide in 2024
-- **Size:** 65437 responses
+- **Coverage:** Survey results from developers worldwide in 2025
+- **Size:** 49123 responses
 - ---
 
 ## Tools & Libraries
@@ -39,7 +24,7 @@ The analysis aims to answer the following questions:
 - **NumPy** – Numerical analysis
 - **Matplotlib / Seaborn / Plotly** – Data visualization
 - **Jupyter Notebook** – Interactive analysis
-- **Power BI / Tableau** *(optional)* – Dashboard creation
+- **Power BI** – Dashboard creation
 
 ---
 
@@ -56,12 +41,6 @@ The analysis aims to answer the following questions:
 3. **Exploratory Data Analysis (EDA)**
    - Frequency counts & percentage distributions
    - Trend analysis
-   - Regional and role-based comparisons
-
-4. **Visualization**
-   - Time-series charts for language/framework trends
-   - Heatmaps for technology adoption
-   - Boxplots for salary distribution
 
 5. **Insights & Recommendations**
    - Highlight key findings
@@ -70,9 +49,7 @@ The analysis aims to answer the following questions:
 ---
 
 ## Example Insights (Hypothetical)
-- Python has consistently grown in popularity, surpassing Java in 2022.
-- React remains the most used front-end framework, but Svelte is growing quickly.
-- AWS dominates cloud usage, but Azure adoption is rising in enterprise environments.
-- Developer salaries are highest in Switzerland, the U.S., and Australia.
+- Python has consistently grown in popularity, surpassing JavaScript in next year.
+- PostSQL remains the most used database, but MicrosoftSQL Server is growing quickly.
 
 ---
